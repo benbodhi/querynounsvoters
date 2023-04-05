@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/querynounsvoters/static/css/main.cbcc314b.css",
+    "main.js": "/querynounsvoters/static/js/main.956eb463.js",
+    "static/js/787.879b471e.chunk.js": "/querynounsvoters/static/js/787.879b471e.chunk.js",
+    "index.html": "/querynounsvoters/index.html",
+    "main.cbcc314b.css.map": "/querynounsvoters/static/css/main.cbcc314b.css.map",
+    "main.956eb463.js.map": "/querynounsvoters/static/js/main.956eb463.js.map",
+    "787.879b471e.chunk.js.map": "/querynounsvoters/static/js/787.879b471e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbcc314b.css",
+    "static/js/main.956eb463.js"
+  ]
+}
