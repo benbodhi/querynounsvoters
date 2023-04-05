@@ -1,3 +1,3 @@
-# Get Nouns DAO Voter Power
+# Nouns DAO Voters
 
-Simple tool to get all Nouns DAO voters and theor voting power
+Simple tool to check all Nouns DAO voters and their voting power.
