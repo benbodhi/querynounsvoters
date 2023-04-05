@@ -1,0 +1,73 @@
+.table-container {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    max-width: 900px;
+    margin: 2em auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #ffffff;
+    overflow-x: auto;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  th,
+  td {
+    text-align: left;
+    padding: 12px;
+    border-bottom: 1px solid #ccc;
+  }
+
+  th {
+    background-color: #f2f2f2;
+    cursor: pointer;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  tbody tr:hover {
+    background-color: #ddd;
+  }
+
+  button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+  }
+
+  button:hover {
+    background-color: #45a049;
+  }
+
+  .refresh-button:disabled {
+    background-color: #888;
+    cursor: not-allowed;
+  }
+
+  /* Responsive design for mobile devices */
+  @media screen and (max-width: 600px) {
+    th,
+    td {
+      font-size: 14px;
+      padding: 8px;
+    }
+
+    .refresh-button {
+      font-size: 14px;
+      padding: 8px 16px;
+    }
+  }
