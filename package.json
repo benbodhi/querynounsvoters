@@ -29,6 +29,7 @@
     "web-vitals": "^2.1.4",
     "web3": "^1.9.0"
   },
+  "homepage": "https://<username>.github.io/<repository-name>/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
