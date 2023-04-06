@@ -23,7 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 .env
-web3.js
 database-debug.log
 ui-debug.log
 database.rules.json
@@ -34,3 +33,6 @@ src/WalletTable-works-until-ens.js
 src/WalletTable-ENS-FUCKERY-AGAIN.js
 src/WalletTable-broke.js
 src/WalletTable-BEST-pre-ENS.js
+src/WalletTable-working-prior-to-progressefficiency.js
+*.cache
+.github/workflows/firebase-hosting-pull-request.yml
